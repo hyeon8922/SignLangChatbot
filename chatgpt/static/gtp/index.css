@@ -1,0 +1,45 @@
+h2 .badge {
+    font-size: 20px;
+    color: #ffffff;
+  }
+  
+div .mb-3 {
+    text-align: center;
+  }
+
+div .form-control {
+    padding : 30px;
+    margin-top: 25px;
+    margin-bottom: 23px;
+}
+
+#text-button {
+  background-color: transparent; 
+  color: #ffffff;
+  border: 2px solid #ffffff; 
+  width: 1100px;
+}
+  
+#text-button:hover {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff; 
+}
+
+body {
+  background-image: url('https://i.pinimg.com/originals/ba/92/1f/ba921f7e877f7a245a4b2dc8264e3502.jpg');
+  background-size: cover; /* 배경 이미지를 창에 맞게 조절 */
+  background-position: center; /* 배경 이미지를 가운데 정렬 */
+  height: 100vh; /* 화면 전체 높이에 배경 적용 */
+  margin: 0;
+}
+
+nav {
+  background-color: #88888833;
+}
+
+form {
+  position: absolute;
+  top: 28%;
+  margin-top: -25px;
+}
